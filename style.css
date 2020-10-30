@@ -606,7 +606,7 @@ img {
 }
 
 .features-img > img {
-    width: 40%;
+    width: 40%; 
     position: absolute;
     bottom: -30px;
     left: 30px;
