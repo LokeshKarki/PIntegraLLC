@@ -608,7 +608,7 @@ img {
 .features-img > img {
     width: 40%; 
     position: absolute;
-    bottom: -30px;
+    bottom: 100px;
     left: 30px;
     z-index: 9;
 }
